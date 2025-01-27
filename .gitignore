@@ -1,8 +1,8 @@
 venv
+env.py
 db.sqlite3
 *.pyc
 __pycache__/
 local_settings.py
 *.pot
 *.log
-env.py
