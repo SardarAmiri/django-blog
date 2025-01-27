@@ -2,4 +2,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 # Create your views here.
 def my_blog(request):
-    return HttpResponse('Hello, Welcome to my blog')
+    return HttpResponse('<h1>Hello, Welcome to my blog</h1>') 
